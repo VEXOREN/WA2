@@ -1,3 +1,5 @@
+package Zadania1;
+
 public class Zadanie8 {
     public static void main(String[] args) {
         String name ="Wojciech Aleksander";

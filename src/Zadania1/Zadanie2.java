@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package Zadania1;
 
 //11.10.2022
 public class Zadanie2 {

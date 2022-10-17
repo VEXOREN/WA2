@@ -1,3 +1,5 @@
+package Zadania1;
+
 public class Zadanie5 {
     public static void main(String[] args) {
         int wymiarypomieszczenia1 = 3*4;
